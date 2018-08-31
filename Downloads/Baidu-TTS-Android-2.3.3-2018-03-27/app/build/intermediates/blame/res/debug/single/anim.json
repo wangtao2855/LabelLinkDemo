@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

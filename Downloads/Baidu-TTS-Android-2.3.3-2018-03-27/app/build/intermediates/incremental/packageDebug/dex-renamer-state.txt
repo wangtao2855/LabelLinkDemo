@@ -1,0 +1,4 @@
+#Tue Apr 10 00:40:12 CST 2018
+base.0=/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

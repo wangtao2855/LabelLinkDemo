@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

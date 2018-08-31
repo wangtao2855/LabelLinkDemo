@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/wangtao/.android/build-cache/53df3aae51d94746260db9ae866f5b3d40cea2c6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/wangtao/.android/build-cache/53df3aae51d94746260db9ae866f5b3d40cea2c6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/wangtao/.android/build-cache/53df3aae51d94746260db9ae866f5b3d40cea2c6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/wangtao/.android/build-cache/53df3aae51d94746260db9ae866f5b3d40cea2c6/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

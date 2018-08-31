@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/wangtao/.android/build-cache/0b18210aeaeb0f6d147fd20fc3b7659c9f04cf64/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/wangtao/Downloads/Baidu-TTS-Android-2.3.3-2018-03-27/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/wangtao/.android/build-cache/53df3aae51d94746260db9ae866f5b3d40cea2c6/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
