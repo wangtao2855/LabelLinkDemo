@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 空心圆角矩形 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <corners android:radius="60dp" />
+    <!-- 圆角半径 -->
+
+    <stroke
+        android:width="1px"
+        android:color="#8991A6" />
+    <!-- 矩形的边线 -->
+</shape>

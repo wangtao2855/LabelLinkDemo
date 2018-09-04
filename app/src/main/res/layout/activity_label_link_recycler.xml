@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="25dp"
+    android:layout_marginRight="15dp"
+    android:orientation="vertical"
+    android:scrollbars="none"
+    tools:context="com.home.labellinkdemo.activity.LabelLinkRecyclerActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="20dp"
+            android:text="  请选择您的阅读偏好  "
+            android:textColor="#333"
+            android:textSize="20sp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/email_sign_in_button"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/circle_ret_orange"
+            android:text="输出选择的内容"
+            android:textColor="#FFFFFF"
+            android:textSize="17sp" />
+    </LinearLayout>
+</ScrollView>
